@@ -1,9 +1,17 @@
-# SKIN_CANCER_DETECTION
-THIS IS ABOUT THE SKIN_CANCER_DETECTION  
-WE HAVE CREATED THE APK FILE FOR THIS AND IT HAS AN ACCURACY OF 97.68 PERCENT
-WE HAVE USED A TOTAL OF THREE LAYERS 
-1. TEACHABLE MACHINES
-2. MOBILENET
-3. VGG-16   
-THE DATASET IS FROM THE KAGGLE https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
-I HAVE UPLOADED MY CODE AND THE DATA SET CHECK FOR ANY QUERIES 
+
+# Skin Cancer Detection
+
+A mobile application designed for early detection of skin cancer using advanced machine learning models. The application achieves an impressive 97.68% accuracy and is available as an APK file for easy deployment.
+
+## Project Overview
+* The model uses a combination of Teachable Machines, MobileNet, and VGG-16 architectures for robust skin cancer detection.
+* The dataset is sourced from Kaggle: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000.
+
+## Model Architecture
+* **Teachable Machines**: Provides initial training for image classification.
+* **MobileNet**: Lightweight architecture for efficient mobile deployment.
+* **VGG-16**: Deep learning model for high-accuracy image recognition.
+
+### Dataset
+* **Source**: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000.
+* The dataset includes a wide variety of dermatoscopic images, allowing for robust and diverse model training.
